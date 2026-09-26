@@ -1,7 +1,13 @@
 {
   "name": "wabot2-kreatif",
   "version": "1.0.0",
+  "description": "WA Bot Kreatif - Bandar Lampung",
   "main": "index.js",
-  "scripts": { "start": "node index.js" },
-  "dependencies": { "express": "^4.18.2" }
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.7.2"
+  }
 }
